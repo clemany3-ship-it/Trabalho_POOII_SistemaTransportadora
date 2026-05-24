@@ -1,0 +1,7 @@
+C:\Users\TODO PODEROSO\source\repos\Sistema_Transportadora\Sistema_Transportadora\bin\Debug\Sistema_Transportadora.exe.config
+C:\Users\TODO PODEROSO\source\repos\Sistema_Transportadora\Sistema_Transportadora\bin\Debug\Sistema_Transportadora.exe
+C:\Users\TODO PODEROSO\source\repos\Sistema_Transportadora\Sistema_Transportadora\bin\Debug\Sistema_Transportadora.pdb
+C:\Users\TODO PODEROSO\source\repos\Sistema_Transportadora\Sistema_Transportadora\obj\Debug\Sistema_Transportadora.csproj.AssemblyReference.cache
+C:\Users\TODO PODEROSO\source\repos\Sistema_Transportadora\Sistema_Transportadora\obj\Debug\Sistema_Transportadora.csproj.CoreCompileInputs.cache
+C:\Users\TODO PODEROSO\source\repos\Sistema_Transportadora\Sistema_Transportadora\obj\Debug\Sistema_Transportadora.exe
+C:\Users\TODO PODEROSO\source\repos\Sistema_Transportadora\Sistema_Transportadora\obj\Debug\Sistema_Transportadora.pdb
