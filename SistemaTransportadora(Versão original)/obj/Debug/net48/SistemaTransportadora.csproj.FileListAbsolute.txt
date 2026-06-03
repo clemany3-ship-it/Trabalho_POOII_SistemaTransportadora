@@ -1,0 +1,10 @@
+C:\Users\TODO PODEROSO\source\repos\SistemaTransportadora\bin\Debug\net48\SistemaTransportadora.exe.config
+C:\Users\TODO PODEROSO\source\repos\SistemaTransportadora\bin\Debug\net48\SistemaTransportadora.exe
+C:\Users\TODO PODEROSO\source\repos\SistemaTransportadora\bin\Debug\net48\SistemaTransportadora.pdb
+C:\Users\TODO PODEROSO\source\repos\SistemaTransportadora\obj\Debug\net48\SistemaTransportadora.csproj.AssemblyReference.cache
+C:\Users\TODO PODEROSO\source\repos\SistemaTransportadora\obj\Debug\net48\SistemaTransportadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TODO PODEROSO\source\repos\SistemaTransportadora\obj\Debug\net48\SistemaTransportadora.AssemblyInfoInputs.cache
+C:\Users\TODO PODEROSO\source\repos\SistemaTransportadora\obj\Debug\net48\SistemaTransportadora.AssemblyInfo.cs
+C:\Users\TODO PODEROSO\source\repos\SistemaTransportadora\obj\Debug\net48\SistemaTransportadora.csproj.CoreCompileInputs.cache
+C:\Users\TODO PODEROSO\source\repos\SistemaTransportadora\obj\Debug\net48\SistemaTransportadora.exe
+C:\Users\TODO PODEROSO\source\repos\SistemaTransportadora\obj\Debug\net48\SistemaTransportadora.pdb
